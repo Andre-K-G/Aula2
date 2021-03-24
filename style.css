@@ -26,6 +26,7 @@ ul {
 ul li {
     display: inline;
     color: indigo;
+    margin-left: 25px;
 }
 nav {
     float: right;
