@@ -52,6 +52,7 @@ nav {
     background-image: url("team.png");
     background-size: cover;
     background-repeat: no-repeat;
+    text-align: center;
 }
 .input_button {
     float: right;
@@ -120,5 +121,12 @@ button {
     text-align: center;
 }
 .texto_rodape {
+    color: white;
+}
+.texto_imagem {
+    color: white;
+}
+.titulo_imagem {
+    font-size: 40px;
     color: white;
 }
